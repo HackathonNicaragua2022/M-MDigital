@@ -259,7 +259,7 @@ https://templatemo.com/tm-580-woox-travel
                   <div class="row">
                     <div class="col-lg-4 col-sm-5">
                       <div class="image">
-                        <img src="assets/images/country-01.jpg" alt="">
+                        <img src="assets\images\images.jfif" alt="">
                       </div>
                     </div>
                     <div class="col-lg-8 col-sm-7">
@@ -288,7 +288,7 @@ https://templatemo.com/tm-580-woox-travel
                   <div class="row">
                     <div class="col-lg-4 col-sm-5">
                       <div class="image">
-                        <img src="assets/images/country-02.jpg" alt="">
+                        <img src="assets\images\FP-Online-de-Técnico-en-Cocina-y-Gastronomía.jpg" alt="">
                       </div>
                     </div>
                     <div class="col-lg-8 col-sm-7">
@@ -317,7 +317,7 @@ https://templatemo.com/tm-580-woox-travel
                   <div class="row">
                     <div class="col-lg-4 col-sm-5">
                       <div class="image">
-                        <img src="assets/images/country-03.jpg" alt="">
+                        <img src="assets\images\1_25-1.jpg" alt="">
                       </div>
                     </div>
                     <div class="col-lg-8 col-sm-7">
