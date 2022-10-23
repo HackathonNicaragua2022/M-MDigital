@@ -50,7 +50,7 @@ https://templatemo.com/tm-580-woox-travel
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="/welcome" class="logo">
                         <img src="assets\img\Recurso 6-8.png" alt="">
                     </a>
                     <!-- ***** Logo End ***** -->

@@ -51,7 +51,7 @@ https://templatemo.com/tm-580-woox-travel
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="/welcome" class="logo">
                         <img src="assets\img\Recurso 6-8.png" alt="">
                     </a>
                     <!-- ***** Logo End ***** -->
@@ -96,19 +96,19 @@ https://templatemo.com/tm-580-woox-travel
                     <div class="row">
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-user"></i>
-                        <h4><span>Population:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-globe"></i>
-                        <h4><span>Territory:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-home"></i>
-                        <h4><span>AVG Price:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <div class="main-button">
-                          <a href="about.html">Explore More</a>
+                          <a href="about.html">Ver más</a>
                         </div>
                       </div>
                     </div>
@@ -121,9 +121,9 @@ https://templatemo.com/tm-580-woox-travel
         <div id="top-banner-2" class="banner">
           <div class="banner-inner-wrapper header-text">
             <div class="main-caption">
-              <h2>Take a Glimpse Into The Beautiful Country Of:</h2>
-              <h1>Switzerland</h1>
-              <div class="border-button"><a href="about.html"> <i class="fa fa-user"></i> Mi perfil</a></div>
+              <h2>Siempre hay algo nuevo que puedes hacer</h2>
+              <h1>Y tener éxito en ello</h1>
+              <div class="border-button"><a href="about.html"><i class="fa fa-user"></i> Mi Perfil</a></div>
             </div>
             <div class="container">
               <div class="row">
@@ -132,19 +132,19 @@ https://templatemo.com/tm-580-woox-travel
                     <div class="row">
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-user"></i>
-                        <h4><span>Population:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-globe"></i>
-                        <h4><span>Territory:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-home"></i>
-                        <h4><span>AVG Price:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <div class="main-button">
-                          <a href="about.html">Explore More</a>
+                          <a href="about.html"> Ver más</a>
                         </div>
                       </div>
                     </div>
@@ -157,9 +157,9 @@ https://templatemo.com/tm-580-woox-travel
         <div id="top-banner-3" class="banner">
           <div class="banner-inner-wrapper header-text">
             <div class="main-caption">
-              <h2>Take a Glimpse Into The Beautiful Country Of:</h2>
-              <h1>France</h1>
-              <div class="border-button"><a href="about.html"><i class="fa fa-user"></i> Mi perfil</a></div>
+              <h2>Siempre hay algo nuevo que puedes hacer</h2>
+              <h1>Y tener éxito en ello</h1>
+              <div class="border-button"><a href="about.html"><i class="fa fa-user"></i> Mi Perfil</a></div>
             </div>
             <div class="container">
               <div class="row">
@@ -168,19 +168,19 @@ https://templatemo.com/tm-580-woox-travel
                     <div class="row">
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-user"></i>
-                        <h4><span>Population:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-globe"></i>
-                        <h4><span>Territory:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-home"></i>
-                        <h4><span>AVG Price:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <div class="main-button">
-                          <a href="about.html">Explore More</a>
+                          <a href="about.html">Ver más</a>
                         </div>
                       </div>
                     </div>
@@ -193,9 +193,9 @@ https://templatemo.com/tm-580-woox-travel
         <div id="top-banner-4" class="banner">
           <div class="banner-inner-wrapper header-text">
             <div class="main-caption">
-              <h2>Take a Glimpse Into The Beautiful Country Of:</h2>
-              <h1>Thailand</h1>
-              <div class="border-button"><a href="about.html"><i class="fa fa-user"></i> Mi perfil</a></div>
+              <h2>Siempre hay algo nuevo que puedes hacer</h2>
+              <h1>Y tener éxito en ello</h1>
+              <div class="border-button"><a href="about.html"><i class="fa fa-user"></i> Mi Perfil</a></div>
             </div>
             <div class="container">
               <div class="row">
@@ -204,19 +204,19 @@ https://templatemo.com/tm-580-woox-travel
                     <div class="row">
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-user"></i>
-                        <h4><span>Population:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-globe"></i>
-                        <h4><span>Territory:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <i class="fa fa-home"></i>
-                        <h4><span>AVG Price:</span></h4>
+                        <h4><span></span></h4>
                       </div>
                       <div class="col-lg-3 col-sm-6 col-6">
                         <div class="main-button">
-                          <a href="about.html">Explore More</a>
+                          <a href="about.html">Ver más</a>
                         </div>
                       </div>
                     </div>
@@ -264,19 +264,19 @@ https://templatemo.com/tm-580-woox-travel
                     </div>
                     <div class="col-lg-8 col-sm-7">
                       <div class="right-content">
-                        <h4>SWITZERLAND</h4>
-                        <span>Europe</span>
+                        <h4>Guia turustico nacional</h4>
+                        <span></span>
                         <div class="main-button">
-                          <a href="about.html">Explore More</a>
+                          <a href="about.html">Inscribirse</a>
                         </div>
-                        <p>Woox Travel is a professional Bootstrap 5 theme HTML CSS layout for your website. You can use this layout for your commercial work.</p>
+                        <p>Travel is a professional Bootstrap 5 theme HTML CSS layout for your website. You can use this layout for your commercial work.</p>
                         <ul class="info">
                           <li><i class="fa fa-user"></i> 8.66 Mil People</li>
                           <li><i class="fa fa-globe"></i> 41.290 km2</li>
-                          <li><i class="fa fa-home"></i> $1.100.200</li>
+                          <li><i class="fa fa-home"></i> </li>
                         </ul>
                         <div class="text-button">
-                          <a href="about.html">Need Directions ? <i class="fa fa-arrow-right"></i></a>
+                          <a href="about.html"> Link del curso <i class="fa fa-arrow-right"></i></a>
                         </div>
                       </div>
                     </div>
@@ -293,19 +293,19 @@ https://templatemo.com/tm-580-woox-travel
                     </div>
                     <div class="col-lg-8 col-sm-7">
                       <div class="right-content">
-                        <h4>CARIBBEAN</h4>
-                        <span>North America</span>
+                        <h4>Cocina y gastronomia</h4>
+                        <span></span>
                         <div class="main-button">
-                          <a href="about.html">Explore More</a>
+                          <a href="about.html">Inscribirse</a>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
                         <ul class="info">
                           <li><i class="fa fa-user"></i> 44.48 Mil People</li>
                           <li><i class="fa fa-globe"></i> 275.400 km2</li>
-                          <li><i class="fa fa-home"></i> $946.000</li>
+                          <li><i class="fa fa-home"></i> </li>
                         </ul>
                         <div class="text-button">
-                          <a href="about.html">Need Directions ? <i class="fa fa-arrow-right"></i></a>
+                          <a href="about.html">Link del curso <i class="fa fa-arrow-right"></i></a>
                         </div>
                       </div>
                     </div>
@@ -322,19 +322,19 @@ https://templatemo.com/tm-580-woox-travel
                     </div>
                     <div class="col-lg-8 col-sm-7">
                       <div class="right-content">
-                        <h4>FRANCE</h4>
-                        <span>Europe</span>
+                        <h4>Preparacion de mariscos</h4>
+                        <span></span>
                         <div class="main-button">
-                          <a href="about.html">Explore More</a>
+                          <a href="about.html">Inscribirse</a>
                         </div>
                         <p>We hope this WoOx template is useful for you, please support us a <a href="https://paypal.me/templatemo" target="_blank">small amount of PayPal</a> to info [at] templatemo.com for our survival. We really appreciate your contribution.</p>
                         <ul class="info">
                           <li><i class="fa fa-user"></i> 67.41 Mil People</li>
                           <li><i class="fa fa-globe"></i> 551.500 km2</li>
-                          <li><i class="fa fa-home"></i> $425.600</li>
+                          <li><i class="fa fa-home"></i> </li>
                         </ul>
                         <div class="text-button">
-                          <a href="about.html">Need Directions ? <i class="fa fa-arrow-right"></i></a>
+                          <a href="about.html"> Link del curso <i class="fa fa-arrow-right"></i></a>
                         </div>
                       </div>
                     </div>
@@ -372,8 +372,9 @@ https://templatemo.com/tm-580-woox-travel
     <div class="container">
       <div class="row">
         <div class="col-lg-8">
-          <h2>Are You Looking To Travel ?</h2>
-          <h4>Make A Reservation By Clicking The Button</h4>
+        
+          <h4>Quieres mejorar tus habilidades y adqurir nuevos 
+            conocimienntos pero no sabes por donde empezar?</h4>
         </div>
         <div class="col-lg-4">
           <div class="border-button">
@@ -388,7 +389,7 @@ https://templatemo.com/tm-580-woox-travel
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2036 <a href="#">WoOx Travel</a> Company. All rights reserved.
+          <p>Copyright © 2036 <a href="#">OLPE</a> Company. All rights reserved.
           <br>Design: <a href="https://templatemo.com" target="_blank" title="free CSS templates">TemplateMo</a> Distribution: <a href="https://themewagon.com target="_blank" >ThemeWagon</a></p>
         </div>
       </div>

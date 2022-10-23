@@ -50,7 +50,7 @@ https://templatemo.com/tm-580-woox-travel
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="/welcome" class="logo">
                         <img src="assets\img\Recurso 6-8.png" alt="">
                     </a>
                     <!-- ***** Logo End ***** -->
@@ -78,7 +78,7 @@ https://templatemo.com/tm-580-woox-travel
       <div class="row">
         <div class="col-lg-12">
           <h4>Descubre las ofertas laborales</h4>
-          <h2>Aprovecha esta oportunidad  &amp; </h2>
+          <h2>Aprovecha esta oportunidad  </h2>
           <div class="border-button"><a href="about.html">Ver más</a></div>
         </div>
       </div>
@@ -92,39 +92,39 @@ https://templatemo.com/tm-580-woox-travel
           <form id="search-form" name="gs" method="submit" role="search" action="#">
             <div class="row">
               <div class="col-lg-2">
-                <h4>Sort Deals By:</h4>
+                <h4>Busqueda por categoria:</h4>
               </div>
               <div class="col-lg-4">
                   <fieldset>
                       <select name="Location" class="form-select" aria-label="Default select example" id="chooseLocation" onChange="this.form.click()">
-                          <option selected>Destinations</option>
-                          <option type="checkbox" name="option1" value="Italy">Italy</option>
-                          <option value="France">France</option>
-                          <option value="Switzerland">Switzerland</option>
-                          <option value="Thailand">Thailand</option>
-                          <option value="Australia">Australia</option>
+                          <option selected>Área laboral</option>
+                          <option type="checkbox" name="option1" value="Italy"></option>
+                          <option value="France">Marketing</option>
+                          <option value="Switzerland">Diseño</option>
+                          <option value="Thailand">Contabilidad</option>
+                          <option value="Australia">Medicina</option>
                           <option value="India">India</option>
-                          <option value="Indonesia">Indonesia</option>
-                          <option value="Malaysia">Malaysia</option>
-                          <option value="Singapore">Singapore</option>
+                          <option value="Indonesia">construccion</option>
+                          <option value="Malaysia">Farmacia</option>
+                          <option value="Singapore">Cocina</option>
                       </select>
                   </fieldset>
               </div>
               <div class="col-lg-4">
                   <fieldset>
                       <select name="Price" class="form-select" aria-label="Default select example" id="choosePrice" onChange="this.form.click()">
-                          <option selected>Price Range</option>
-                          <option value="100">$100 - $250</option>
-                          <option value="250">$250 - $500</option>
-                          <option value="500">$500 - $1,000</option>
-                          <option value="1000">$1,000 - $2,500</option>
-                          <option value="2500+">$2,500+</option>
+                          <option selected>Horarios</option>
+                          <option value="100">07:00 Am</option>
+                          <option value="250">09:00 Am</option>
+                          <option value="500">12:00 Md</option>
+                          <option value="1000">06:00 Pm</option>
+                          <option value="2500+">08:00Am</option>
                       </select>
                   </fieldset>
               </div>
               <div class="col-lg-2">
                   <fieldset>
-                      <button class="border-button">Search Results</button>
+                      <button class="border-button">Buscar por categoria</button>
                   </fieldset>
               </div>
             </div>
@@ -139,8 +139,9 @@ https://templatemo.com/tm-580-woox-travel
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
           <div class="section-heading text-center">
-            <h2>Best Weekly Offers In Each City</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+            <h2>Las Mejores Ofertas Semanales 
+              en el área laboral  </h2>
+            <p></p>
           </div>
         </div>
         <div class="col-lg-6 col-sm-6">
@@ -153,21 +154,21 @@ https://templatemo.com/tm-580-woox-travel
               </div>
               <div class="col-lg-6 align-self-center">
                 <div class="content">
-                  <span class="info">*Limited Offer Today</span>
-                  <h4>Glasgow City Lorem</h4>
+                  <span class="info">*Gratis</span>
+                  <h4>Psicologia del aprendizaje</h4>
                   <div class="row">
                     <div class="col-6">
                       <i class="fa fa-clock"></i>
-                      <span class="list">5 Days</span>
+                      <span class="list">12:00 Md</span>
                     </div>
                     <div class="col-6">
                       <i class="fa fa-map"></i>
-                      <span class="list">Daily Places</span>
+                      <span class="list">Aprendizaje</span>
                     </div>
                   </div>
-                  <p>Lorem ipsum dolor sit amet dire consectetur adipiscing elit.</p>
+                  <p>Curso de capacitacion para la preparacion personal</p>
                   <div class="main-button">
-                    <a href="reservation.html">Make a Reservation</a>
+                    <a href="reservation.html">Inscribirse</a>
                   </div>
                 </div>
               </div>
@@ -184,21 +185,21 @@ https://templatemo.com/tm-580-woox-travel
               </div>
               <div class="col-lg-6 align-self-center">
                 <div class="content">
-                  <span class="info">*Today & Tomorrow Only</span>
-                  <h4>Venezia Italy Ipsum</h4>
+                  <span class="info">*Gratis</span>
+                  <h4>Guia turistico nacional</h4>
                   <div class="row">
                     <div class="col-6">
                       <i class="fa fa-clock"></i>
-                      <span class="list">5 Days</span>
+                      <span class="list">07:00 Am</span>
                     </div>
                     <div class="col-6">
                       <i class="fa fa-map"></i>
-                      <span class="list">Daily Places</span>
+                      <span class="list">Especialización</span>
                     </div>
                   </div>
-                  <p>Lorem ipsum dolor sit amet dire consectetur adipiscing elit.</p>
+                  <p>Curso de capacitacion para la preparacion personal.</p>
                   <div class="main-button">
-                    <a href="reservation.html">Make a Reservation</a>
+                    <a href="reservation.html">Inscribirse</a>
                   </div>
                 </div>
               </div>
@@ -215,21 +216,21 @@ https://templatemo.com/tm-580-woox-travel
               </div>
               <div class="col-lg-6 align-self-center">
                 <div class="content">
-                  <span class="info">**Undefined</span>
-                  <h4>Glasgow City Lorem</h4>
+                  <span class="info">*Gratis</span>
+                  <h4>Manejo de flota vehicular</h4>
                   <div class="row">
                     <div class="col-6">
                       <i class="fa fa-clock"></i>
-                      <span class="list">5 Days</span>
+                      <span class="list">09:00 Am</span>
                     </div>
                     <div class="col-6">
                       <i class="fa fa-map"></i>
-                      <span class="list">Daily Places</span>
+                      <span class="list">Especialización</span>
                     </div>
                   </div>
-                  <p>Lorem ipsum dolor sit amet dire consectetur adipiscing elit.</p>
+                  <p>Curso de capacitacion para la preparacion personal.</p>
                   <div class="main-button">
-                    <a href="reservation.html">Make a Reservation</a>
+                    <a href="reservation.html">Inscribirse</a>
                   </div>
                 </div>
               </div>
@@ -246,21 +247,21 @@ https://templatemo.com/tm-580-woox-travel
               </div>
               <div class="col-lg-6 align-self-center">
                 <div class="content">
-                  <span class="info">*Offer Until 24th March</span>
-                  <h4>Glasgow City Lorem</h4>
+                  <span class="info">*Gratis</span>
+                  <h4>Guia turistico por pueblitos</h4>
                   <div class="row">
                     <div class="col-6">
                       <i class="fa fa-clock"></i>
-                      <span class="list">5 Days</span>
+                      <span class="list">08:00 Am</span>
                     </div>
                     <div class="col-6">
                       <i class="fa fa-map"></i>
-                      <span class="list">Daily Places</span>
+                      <span class="list">Aprendizaje</span>
                     </div>
                   </div>
-                  <p>This free CSS template is provided by Template Mo website.</p>
+                  <p>Curso de capacitacion para la preparacion personal.</p>
                   <div class="main-button">
-                    <a href="reservation.html">Make a Reservation</a>
+                    <a href="reservation.html">Inscribirse</a>
                   </div>
                 </div>
               </div>
@@ -284,8 +285,9 @@ https://templatemo.com/tm-580-woox-travel
     <div class="container">
       <div class="row">
         <div class="col-lg-8">
-          <h2>Are You Looking To Travel ?</h2>
-          <h4>Make A Reservation By Clicking The Button</h4>
+        
+          <h4>Quieres mejorar tus habilidades y adqurir nuevos 
+            conocimienntos pero no sabes por donde empezar?</h4>
         </div>
         <div class="col-lg-4">
           <div class="border-button">
