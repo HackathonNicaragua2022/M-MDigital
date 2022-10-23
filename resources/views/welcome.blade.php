@@ -42,7 +42,7 @@
                 <nav class="main-nav">
                     <!-- ***** Inicio del Logo ***** -->
                     <a href="index.html" class="logo">
-                        <img src="assets/images/logo.png" alt="">
+                        <img src="img\logo\Recurso 1.png" alt="">
                     </a>
                     <!-- ***** Fin del Logo ***** -->
                     <!-- ***** Inicio de Menu ***** -->
@@ -57,6 +57,10 @@
                         <span>Menu</span>
                     </a>
                     <!-- ***** Fin de Menu ***** -->
+
+                    <!-- *****  Inicio del banners  ***** -->
+
+                    <!-- *****  Fin del banners  ***** -->
                 
 
   
