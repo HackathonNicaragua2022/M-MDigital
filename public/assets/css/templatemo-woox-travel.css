@@ -1,3 +1,29 @@
+/*
+
+TemplateMo 580 Woox Travel
+
+https://templatemo.com/tm-580-woox-travel
+
+*/
+/* ---------------------------------------------
+Table of contents
+------------------------------------------------
+01. font & reset css
+02. reset
+03. global styles
+04. header
+05. banner
+06. features
+07. testimonials
+08. contact
+09. footer
+
+--------------------------------------------- */
+/*
+---------------------------------------------
+font & reset css
+---------------------------------------------
+*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900");
 /*
 ---------------------------------------------
@@ -67,7 +93,7 @@ a {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #2a2a2a;
+  color: #FFB803;
   font-weight: 700;
 }
 
@@ -336,7 +362,7 @@ Header Style
 }
 
 .header-area .main-nav .logo {
-  flex-basis: 30%;
+  flex-basis: 15%;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -565,8 +591,8 @@ Header Style
   }
   .header-area .main-nav .logo {
     position: absolute;
-    left: 10px;
-    top: 5px;
+    left: 15px;
+    top: 7px;
   }
   .background-header .main-nav .logo {
     top: 0px;
@@ -2104,7 +2130,7 @@ Reservation Page Style
 
 .reservation-form #reservation-form h4 em {
   font-style: normal;
-  color: #2D2D2D;
+  color: #ffffff;
 }
 
 .reservation-form #reservation-form {

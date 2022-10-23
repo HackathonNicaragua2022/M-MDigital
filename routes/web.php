@@ -17,8 +17,20 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/contacto', function () {
+    return view('contacto');
+});
+
 Route::get('/oferta', function () {
     return view('oferta');
+});
+
+Route::get('/busco', function () {
+    return view('busco');
+});
+
+Route::get('/contacto', function () {
+    return view('contacto');
 });
 
 Route::get('/welcome', function () {

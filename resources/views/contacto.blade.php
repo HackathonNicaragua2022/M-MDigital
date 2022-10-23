@@ -8,7 +8,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>WoOx Travel Reservation Page</title>
+    <title>OLPE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -51,16 +51,16 @@ https://templatemo.com/tm-580-woox-travel
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
-                        <img src="assets/images/logo.png" alt="">
+                        <img src="assets\img\Recurso 6-8.png" alt="">
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="deals.html">Deals</a></li>
-                        <li><a href="reservation.html" class="active">Reservation</a></li>
-                        <li><a href="reservation.html">Book Yours</a></li>
+                        <li><a href="/welcome">Inicio</a></li>
+                        <li><a href="/oferta">Oferta</a></li>
+                        <li><a href="/busco">Busco Trabajo</a></li>
+                        <li><a href="/contacto" class="active">Contacto</a></li>
+                        
                     </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -77,10 +77,10 @@ https://templatemo.com/tm-580-woox-travel
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h4>Book Prefered Deal Here</h4>
-          <h2>Make Your Reservation</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt uttersi labore et dolore magna aliqua is ipsum suspendisse ultrices gravida</p>
-          <div class="main-button"><a href="about.html">Discover More</a></div>
+          <h4>Utiliza nuestra sección de Chat 
+            para comunicarte de manera 
+            fácil y segura.</h4>
+          <div class="main-button"><a href="about.html">Ver más</a></div>
         </div>
       </div>
     </div>
@@ -92,22 +92,22 @@ https://templatemo.com/tm-580-woox-travel
         <div class="col-lg-4 col-sm-6">
           <div class="info-item">
             <i class="fa fa-phone"></i>
-            <h4>Make a Phone Call</h4>
-            <a href="#">+123 456 789 (0)</a>
+            <h4>Numero de telefono</h4>
+            <a href="#">No definido</a>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="info-item">
             <i class="fa fa-envelope"></i>
-            <h4>Contact Us via Email</h4>
-            <a href="#">company@email.com</a>
+            <h4>Contacto por Gmail</h4>
+            <a href="#">m.m.digital000@gmail.com</a>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="info-item">
             <i class="fa fa-map-marker"></i>
-            <h4>Visit Our Offices</h4>
-            <a href="#">24th Street North Avenue London, UK</a>
+            <h4>Donde estamos ubicados</h4>
+            <a href="#">Estelí</a>
           </div>
         </div>
       </div>
@@ -126,23 +126,23 @@ https://templatemo.com/tm-580-woox-travel
           <form id="reservation-form" name="gs" method="submit" role="search" action="#">
             <div class="row">
               <div class="col-lg-12">
-                <h4>Make Your <em>Reservation</em> Through This <em>Form</em></h4>
+                <h4><em>Reservacion</em>  <em></em></h4>
               </div>
               <div class="col-lg-6">
                   <fieldset>
-                      <label for="Name" class="form-label">Your Name</label>
-                      <input type="text" name="Name" class="Name" placeholder="Ex. John Smithee" autocomplete="on" required>
+                      <label for="Name" class="form-label">Nombre</label>
+                      <input type="text" name="Name" class="Name" placeholder="Nombre completo" autocomplete="on" required>
                   </fieldset>
               </div>
               <div class="col-lg-6">
                 <fieldset>
-                    <label for="Number" class="form-label">Your Phone Number</label>
-                    <input type="text" name="Number" class="Number" placeholder="Ex. +xxx xxx xxx" autocomplete="on" required>
+                    <label for="Number" class="form-label">Numero de telefono</label>
+                    <input type="text" name="Number" class="Number" placeholder="+++++++++++" autocomplete="on" required>
                 </fieldset>
               </div>
               <div class="col-lg-6">
                   <fieldset>
-                      <label for="chooseGuests" class="form-label">Number Of Guests</label>
+                      <label for="chooseGuests" class="form-label">Numero de personas</label>
                       <select name="Guests" class="form-select" aria-label="Default select example" id="chooseGuests" onChange="this.form.click()">
                           <option selected>ex. 3 or 4 or 5</option>
                           <option type="checkbox" name="option1" value="1">1</option>
@@ -160,19 +160,19 @@ https://templatemo.com/tm-580-woox-travel
               </div>
               <div class="col-lg-12">
                   <fieldset>
-                      <label for="chooseDestination" class="form-label">Choose Your Destination</label>
+                      <label for="chooseDestination" class="form-label">Buscar Empresa</label>
                       <select name="Destination" class="form-select" aria-label="Default select example" id="chooseCategory" onChange="this.form.click()">
-                          <option selected>ex. Switzerland, Lausanne</option>
-                          <option value="Italy, Roma">Italy, Roma</option>
-                          <option value="France, Paris">France, Paris</option>
-                          <option value="Engaland, London">Engaland, London</option>
-                          <option value="Switzerland, Lausanne">Switzerland, Lausanne</option>
+                          <option selected>Telecomunicaciones</option>
+                          <option value="Italy, Roma">Delivery</option>
+                          <option value="France, Paris">Transporte</option>
+                          <option value="Engaland, London">Fabricas</option>
+                          <option value="Switzerland, Lausanne">Otra</option>
                       </select>
                   </fieldset>
               </div>
               <div class="col-lg-12">                        
                   <fieldset>
-                      <button class="main-button">Make Your Reservation Now</button>
+                      <button class="main-button">Enviar formulario</button>
                   </fieldset>
               </div>
             </div>
@@ -186,7 +186,7 @@ https://templatemo.com/tm-580-woox-travel
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2036 <a href="#">WoOx Travel</a> Company. All rights reserved. 
+          <p>Copyright © 2036 <a href="#">OLPE</a>  
           <br>Design: <a href="https://templatemo.com" target="_blank" title="free CSS templates">TemplateMo</a> Distribution: <a href="https://themewagon.com target="_blank" >ThemeWagon</a></p>
         </div>
       </div>

@@ -13,19 +13,25 @@
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Archivos adicionales de css -->
+    <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-woox-travel.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<!--
 
+TemplateMo 580 Woox Travel
+
+https://templatemo.com/tm-580-woox-travel
+
+-->
 
   </head>
 
 <body>
 
-  <!-- ***** Preloader Inicio ***** -->
+  <!-- ***** Preloader Start ***** -->
   <div id="js-preloader" class="js-preloader">
     <div class="preloader-inner">
       <span class="dot"></span>
@@ -36,39 +42,39 @@
       </div>
     </div>
   </div>
-  <!-- ***** Preloader Fin ***** -->
+  <!-- ***** Preloader End ***** -->
 
-  <!-- ***** Inicio de encabezado ***** -->
+  <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">
-                    <!-- ***** Inicio de logo ***** -->
+                    <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
-                        <img src="imge\logo\Recurso 6-8.png" alt="">
+                        <img src="assets\img\Recurso 6-8.png" alt="">
                     </a>
-                    <!-- ***** Fin de logo ***** -->
-                    <!-- ***** Inicio de menu ***** -->
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="index.html" class="active">Inicio</a></li>
-                        <li><a href="/oferta">Ofertas</a></li>
+                        <li><a href="/welcome" class="active">Inicio</a></li>
+                        <li><a href="/oferta">Oferta</a></li>
                         <li><a href="/busco">Busco Trabajo</a></li>
-                        <li><a href="/contacto">Contactar</a></li>
-                        <li><a href="reservation.html"></a></li>
+                        <li><a href="/contacto">Contacto</a></li>
+                        
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
                     </a>
-                    <!-- ***** Fin de menu ***** -->
+                    <!-- ***** Menu End ***** -->
                 </nav>
             </div>
         </div>
     </div>
   </header>
-  <!-- ***** Fin de encabezado ***** -->
+  <!-- ***** Header Area End ***** -->
 
-  <!-- ***** Inicio de Banners ***** -->
+  <!-- ***** Main Banner Area Start ***** -->
   <section id="section-1">
     <div class="content-slider">
       <input type="radio" id="banner1" class="sec-1-input" name="banner" checked>
@@ -231,15 +237,16 @@
       </nav>
     </div>
   </section>
-  <!-- ***** Fin de Banners ***** -->
+  <!-- ***** Main Banner Area End ***** -->
 
   <div class="visit-country">
     <div class="container">
       <div class="row">
         <div class="col-lg-5">
           <div class="section-heading">
-            <h2>OLPE</h2>
-            <p>Mejora tus habilidades y adquiere nuevos conocimientos y cursos de capacitacion que te ayuden en tu desarrollo profecional.</p>
+            <h2>Cursos de capacitación</h2>
+            <p> Mejora tus habilidades y adquiere nuevos conocimientos
+              y cursos de capacitacion que te ayuden en tu desarrollo profesional.</p>
           </div>
         </div>
       </div>
@@ -351,7 +358,7 @@
             <div class="row">
               <div class="col-lg-12">
                 <div id="map">
-                  <iframe src= "" allowfullscreen=""></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12469.776493332698!2d-80.14036379941481!3d25.907788681148624!2m3!1f357.26927939317244!2f20.870722720054623!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x88d9add4b4ac788f%3A0xe77469d09480fcdb!2sSunny%20Isles%20Beach!5e1!3m2!1sen!2sth!4v1642869952544!5m2!1sen!2sth" width="100%" height="550px" frameborder="0" style="border:0; border-radius: 23px; " allowfullscreen=""></iframe>
                 </div>
               </div>
             </div>
@@ -381,7 +388,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2036 <a href="#">OLPE</a> Company. All rights reserved.
+          <p>Copyright © 2036 <a href="#">WoOx Travel</a> Company. All rights reserved.
           <br>Design: <a href="https://templatemo.com" target="_blank" title="free CSS templates">TemplateMo</a> Distribution: <a href="https://themewagon.com target="_blank" >ThemeWagon</a></p>
         </div>
       </div>

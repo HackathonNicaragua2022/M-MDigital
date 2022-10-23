@@ -8,7 +8,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>WoOx Travel - Special Deals</title>
+    <title>OLPE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -51,16 +51,16 @@ https://templatemo.com/tm-580-woox-travel
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
-                        <img src="assets/images/logo.png" alt="">
+                        <img src="assets\img\Recurso 6-8.png" alt="">
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="deals.html" class="active">Deals</a></li>
-                        <li><a href="reservation.html">Reservation</a></li>
-                        <li><a href="reservation.html">Book Yours</a></li>
+                        <li><a href="/welcome">Inicio</a></li>
+                        <li><a href="/oferta">Ofertas</a></li>
+                        <li><a href="/busco" class="active">Busco Trabajo</a></li>
+                        <li><a href="/contacto">contacto</a></li>
+                        
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -77,9 +77,9 @@ https://templatemo.com/tm-580-woox-travel
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h4>Discover Our Weekly Offers</h4>
-          <h2>Amazing Prices &amp; More</h2>
-          <div class="border-button"><a href="about.html">Discover More</a></div>
+          <h4>Descubre las ofertas laborales</h4>
+          <h2>Aprovecha esta oportunidad  &amp; </h2>
+          <div class="border-button"><a href="about.html">Ver más</a></div>
         </div>
       </div>
     </div>

@@ -8,23 +8,29 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>WoOx Travel - About Us</title>
+    <title>OLPE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Archivos css adicionales -->
+    <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-woox-travel.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<!--
 
+TemplateMo 580 Woox Travel
+
+https://templatemo.com/tm-580-woox-travel
+
+-->
   </head>
 
 <body>
 
-  <!-- ***** Inicio de Preloader ***** -->
+  <!-- ***** Preloader Start ***** -->
   <div id="js-preloader" class="js-preloader">
     <div class="preloader-inner">
       <span class="dot"></span>
@@ -35,58 +41,61 @@
       </div>
     </div>
   </div>
-  <!-- ***** Fin de Preloader ***** -->
+  <!-- ***** Preloader End ***** -->
 
-  <!-- ***** Inicio de area de encabezado ***** -->
+  <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">
-                    <!-- ***** Inicio de Logo ***** -->
+                    <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
-                        <img src="imge\logo\Recurso 6-8.png" alt="">
+                        <img src="assets\img\Recurso 6-8.png" alt="">
                     </a>
-                    <!-- ***** Fin de Logo ***** -->
-                    <!-- ***** Inicio de menu ***** -->
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="/welcome">Home</a></li>
-                        <li><a href="about.html" class="active">About</a></li>
-                        <li><a href="deals.html">Deals</a></li>
-                        <li><a href="reservation.html">Reservation</a></li>
-                        <li><a href="reservation.html">Book Yours</a></li>
+                        <li><a href="/welcome">Inicio</a></li>
+                        <li><a href="/oferta" class="active">Oferta</a></li>
+                        <li><a href="/busco">Busco Trabajo</a></li>
+                        <li><a href="/contacto">Contacto</a></li>
+                        
                     </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
                     </a>
-                    <!-- ***** Fin de menu ***** -->
+                    <!-- ***** Menu End ***** -->
                 </nav>
             </div>
         </div>
     </div>
   </header>
-  <!-- ***** Fin de area de encabezado ***** -->
+  <!-- ***** Header Area End ***** -->
 
-  <!-- ***** Inicio de Banners ***** -->
+  <!-- ***** Main Banner Area Start ***** -->
   <div class="about-main-content">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
           <div class="content">
             <div class="blur-bg"></div>
-            <h4>EXPLORE OUR COUNTRY</h4>
+            <h4>Explora el mundo laboral</h4>
             <div class="line-dec"></div>
-            <h2>Welcome To Caribbean</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt uttersi labore et dolore magna aliqua is ipsum suspendisse ultrices gravida</p>
+            
+            <h2>Bienvenido a ofertas </h2>
+            <p>Conoce las ofertas laborales del dia a dia y elige la que
+              mejor se acople a tu perfil, contacta y comunicate directamente 
+              con las empresas.</p>
             <div class="main-button">
-              <a href="reservation.html">Discover More</a>
+              <a href="reservation.html">Ver más</a>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <!-- ***** Fin de Banners ***** -->
+  <!-- ***** Main Banner Area End ***** -->
 
   <div class="cities-town">
     <div class="container">
@@ -299,8 +308,10 @@
         </div>
         <div class="col-lg-6">
           <div class="section-heading">
-            <h2>Discover More About Our Country</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+            <h2>Descubre nuestros planes y asesoramiento</h2>
+            <p>Adquiere cualquiera de nuestros planes y aprovecha los beneficios y ofertas que te traen 
+              formate y se un profesional más competitivo para optener mejores oportunidades 
+              de conseguir un empleo.</p>
           </div>
           <div class="row">
             <div class="col-lg-6">
@@ -330,9 +341,11 @@
               </div>
             </div>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Accede a cualquiera de nuestros planes de asesoria y aprovecha nuestras promociones
+            y oferta que te estaremos brindando para la mejora de tus conocimientos y tu rendimiento laboral
+            adquiere nuevas habilidades y consigue un lugar donde trabajar por medio de nuestros planes.</p>
           <div class="main-button">
-            <a href="reservation.html">Discover More</a>
+            <a href="reservation.html">Ver más</a>
           </div>
         </div>
       </div>
@@ -344,8 +357,10 @@
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
           <div class="section-heading text-center">
-            <h2>Best Locations In Caribbeans</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+            <h2>Medios de contacto OLPE</h2>
+            <p>Puedes ponerte en contacto con nosotros por dedio de 
+              cualquiera de las redes socales o bien directamente por nuestro contacto 
+              o nuestro sitio web en el botón de “Ayuda”</p>
           </div>
         </div>
         <div class="col-lg-8 offset-lg-2">
@@ -357,7 +372,7 @@
                      <i class="fas fa-expand"></i>
                   </div>
                   <div class="info">
-                     <div class="main">Havana</div>
+                     <div class="main">Facebook</div>
                      <div class="sub">Population: 2M</div>
                   </div>
                </div>
