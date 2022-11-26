@@ -175,11 +175,8 @@
                                                 alt="">
                                         </div>
                                         <div class="content">
-                                            <h3>Titulo</h3>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quaerat
-                                                dolorem vero, voluptas accusamus consequatur eligendi unde corrupti
-                                                asperiores rem deserunt, animi omnis ipsa praesentium, aut laudantium
-                                                facilis neque quae!</p>
+                                            <h3>Ofertas de empleo</h3>
+                                            <p>Encuentra las mejores ofertas semanales en el area laboral conoce y conectate con empresas con relacion a tus habilidades y conocimientos</p>
                                             <a href="/iniciar_sesion" class="btn">Ver mas</a>
                                         </div>
                                     </div>
