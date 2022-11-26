@@ -2,13 +2,14 @@
 
 namespace App\Http\Livewire;
 
+
 use App\Models\Comment;
 use Illuminate\Support\Facades\Auth;
 use Livewire\Component;
 
 class AddComment extends Component
 {
-
+  
     public $postId;
     public $body;
 
@@ -34,5 +35,4 @@ class AddComment extends Component
         $this->body = '';
     }
 
-  
 }

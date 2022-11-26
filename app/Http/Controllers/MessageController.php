@@ -22,4 +22,7 @@ class MessageController extends Controller
     public function messague($id) {
         $post = Post::with('user')->find($id);
     }
+
+    
 }
+

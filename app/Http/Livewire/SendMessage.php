@@ -9,6 +9,7 @@ use Livewire\Component;
 
 class SendMessage extends Component
 {
+
     public $message, $receiverID;
 
     public function render()

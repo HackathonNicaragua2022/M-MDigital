@@ -31,7 +31,7 @@
                                         
                                         <div class="ml-3 ">
                                             <span
-                                                class="text-sm font-semibold antialiased block leading-tight">{{ $post->user->name }}</span>
+                                                class="text-sm font-semibold antialiased block leading-tight">{{ $post->user->username }}</span>
                                             <span class="text-gray-600 text-xs block">{{ $post->user->email }}</span>
                                         </div>
                                     </div>

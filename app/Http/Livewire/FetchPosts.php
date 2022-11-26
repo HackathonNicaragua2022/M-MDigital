@@ -2,7 +2,6 @@
 
 namespace App\Http\Livewire;
 
-
 use App\Models\Like;
 use App\Models\Post;
 use Livewire\Component;
@@ -10,7 +9,7 @@ use Livewire\Component;
 class FetchPosts extends Component
 {
 
-      // public $posts;
+     // public $posts;
 
     // public function mount()
     // {
@@ -38,4 +37,6 @@ class FetchPosts extends Component
             ]);
         }
     }
+
+    
 }

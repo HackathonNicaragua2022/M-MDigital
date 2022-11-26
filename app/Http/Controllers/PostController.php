@@ -1,55 +1,31 @@
 <?php
 
-namespace App\Http\Livewire;
+namespace App\Http\Controllers;
 
-use Livewire\Component;
 use App\Models\Post;
-use Livewire\WithFileUploads;
+use Illuminate\Http\Request;
 
-class AddPostFeed extends Component
+class PostController extends Controller
 {
-
-    use WithFileUploads;
-
-  //  protected $rules = [
-
-   // ];
-
-    public $body, $coverImage;
-
-    protected $rules = [
-        'body' => 'required',
-        'coverImage' => 'image',
-        
-    ];
-
-    public function updated($propertyName)
+    public function index()
     {
-        $this->validateOnly($propertyName);
+        return view('dashboard');
     }
 
-    
-
-    public function render()
+    public function single($id)
     {
-        return view('livewire.add-post-feed');
+        $post = Post::with('user')->find($id);
+        return view('single', compact('post'));
     }
 
-    public function store()
+    public function destroy(Post $post)
     {
-        $this->validate();
+        Storage::delete($post->image);
 
-        auth()->user()->posts()->create([
-            'image' => $this->coverImage->store('posts', 'public'),
-            'body' => $this->body,
-            
-        ]);
+        $post->delete();
 
-        session()->flash('success', 'Post created');
-
-        $this->body = '';
-        $this->coverImage = '';
-
+        return back()->with('status', 'The post deleted successfully.');
     }
 
+   
 }

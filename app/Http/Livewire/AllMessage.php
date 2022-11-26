@@ -25,4 +25,5 @@ class AllMessage extends Component
             ->get();
         return view('livewire.all-message', compact('messages'));
     }
+
 }
