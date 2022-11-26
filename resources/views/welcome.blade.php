@@ -157,11 +157,8 @@
                                                 alt="">
                                         </div>
                                         <div class="content">
-                                            <h3>Titulo</h3>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quaerat
-                                                dolorem vero, voluptas accusamus consequatur eligendi unde corrupti
-                                                asperiores rem deserunt, animi omnis ipsa praesentium, aut laudantium
-                                                facilis neque quae!</p>
+                                            <h3>Curso de capacitación</h3>
+                                            <p>Mejora tus habilidades y adquiere nuevos conocimientos y cursos de capacitación que te ayuden en tu desarrollo profecional.</p>
                                             <a href="/iniciar_sesion" class="btn">Ver mas</a>
                                         </div>
                                     </div>
