@@ -162,7 +162,7 @@
                                             <a href="/iniciar_sesion" class="btn">Ver mas</a>
                                         </div>
                                     </div>
-                                </article> 
+                                </article>
 
                             </div>
 
